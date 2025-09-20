@@ -4,10 +4,12 @@
 I work with Salesforce as an architect and developer.  
 I focus on **reusable architecture** and **security by design**.  
 I have delivered **two apps to the Salesforce AppExchange**.  
+I’m also a **home automation enthusiast**, with an open-source app for the **Homey Pro hub**.
 
 ### Project highlights
-- Creator of the **eMabler Connector** AppExchange app.  
+- Developer of the **eMabler Connector** AppExchange app.  
 - Maintainer of **Signicat Sign** for Salesforce at Stretch Engage.  
+- Developer of the **Xcomfort Bridge Connector** app for Homey Pro (home automation).
 
 ### How I work
 - Keep solutions simple and maintainable.  
